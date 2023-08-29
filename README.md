@@ -1,4 +1,8 @@
 <h1 align="center" id="title">subdomain scanner</h1>
+<video controls autoplay>
+        <source src="https://res.cloudinary.com/druwas6ef/video/upload/v1693324436/yv7dj3xucfkr7sirh52c.mp4" type="video/mp4">
+        https://res.cloudinary.com/druwas6ef/video/upload/v1693324436/yv7dj3xucfkr7sirh52c.mp4
+    </video>
 <p align="center"><img src="https://res.cloudinary.com/druwas6ef/image/upload/v1693322324/jhts1nkhvsgi0juhr4y4.png" alt="project-screenshot" width="600" height="400/"></p>
 <p id="description">This is the overview of the architecture behind the subdomain fetching tool. The service is primarily built in Go with a React frontend. It interfaces with crt.sh to retrieve potential subdomains for a given domain and ensures uniqueness before presenting the results to the user.</p>  
 <h2>Components:</h1>
